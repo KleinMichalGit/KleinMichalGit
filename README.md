@@ -1,7 +1,5 @@
 ![Metrics](/github-metrics.svg)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kleinmichalgit&show_icons=true&locale=en&theme=dark" alt="kleinmichalgit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kleinmichalgit&theme=dark" alt="kleinmichalgit" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kleinmichalgit&show_icons=true&locale=en&layout=compact&theme=dark" alt="kleinmichalgit" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kleinmichalgit&title=Commits,PullRequest,Repositories&theme=onedark" alt="kleinmichalgit" /></a> </p>
 
