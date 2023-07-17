@@ -21,5 +21,7 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
           token: ${{ secrets.METRICS_TOKEN }}
 
